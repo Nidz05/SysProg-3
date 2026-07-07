@@ -1,6 +1,7 @@
 # Sistemsko programiranje
 
 Prvi projekat: https://github.com/pajonak1/sisprogelfak
+
 Drugi projekat: https://github.com/Nidz05/SysProg-2
 
 # Zadatak 24:
